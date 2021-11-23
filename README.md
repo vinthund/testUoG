@@ -7,3 +7,5 @@
 [ad4646d](www.github.com/ad4646d)
 
 [ch6941r](www.github.com/ch6941r)
+
+[vinthund](www.github.com/vinthund)
