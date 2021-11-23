@@ -10,4 +10,6 @@
 
 [vinthund](www.github.com/vinthund)
 
-[JoelSmalls](www.github.com/JoelSmalls))
+[JoelSmalls](www.github.com/JoelSmalls)
+
+[kamyar123](www.github.com/kamyar123)
